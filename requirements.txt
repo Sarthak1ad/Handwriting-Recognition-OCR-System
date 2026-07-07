@@ -1,8 +1,16 @@
-opencv-python
-numpy
-pandas
-torch
-transformers
-streamlit
-fastapi
-uvicorn
+# Core Machine Learning & Computer Vision
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.7.0
+numpy>=1.22.0
+pillow>=9.0.0
+
+# API Backend & Web Application
+fastapi>=0.95.0
+uvicorn>=0.20.0
+python-multipart>=0.0.5
+streamlit>=1.20.0
+
+# Testing & Utilities
+pytest>=7.0.0
+tqdm>=4.60.0
