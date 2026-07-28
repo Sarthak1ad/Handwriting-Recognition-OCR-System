@@ -140,6 +140,3 @@ To improve classification accuracy beyond EMNIST baseline thresholds (e.g. targe
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
