@@ -121,15 +121,6 @@ streamlit run web/streamlit_app.py
 
 ---
 
-## 🧪 Running Automated Tests
-
-Run the full pytest suite to verify module mechanics:
-```bash
-python -m pytest tests/test_ocr_system.py
-```
-
----
-
 ## 📈 Suggestion for Future Improvements
 
 To improve classification accuracy beyond EMNIST baseline thresholds (e.g. targeting 95%+):
