@@ -126,8 +126,7 @@ streamlit run web/streamlit_app.py
 To improve classification accuracy beyond EMNIST baseline thresholds (e.g. targeting 95%+):
 1.  **Model Enhancements**: Migrate to ResNet18/34 architectures or incorporate Batch Normalization after Conv2d layers.
 2.  **Data Augmentation**: Apply random affine transforms, elastic deformations, or shearing during training.
-3.  **Sequence Modeling**: Implement a CRNN (Convolutional Recurrent Neural Network) + CTC (Connectionist Temporal Classification) Loss to recognize entire word strings without character-level segmentation.
-4.  **Runtime Optimization**: Export the PyTorch model to ONNX runtime format for faster server-side inference.
+3.  **Sequence Modeling**: Implement a CRNN (Convolutional Recurrent Neural Network) + CTC (Connectionist Temporal Classification) Loss to recognize entire word strings without character-level segmentation
 
 ---
 
