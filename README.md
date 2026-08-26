@@ -1,6 +1,6 @@
 # Handwriting Recognition & OCR System using Deep Learning
 
-A production-quality, learning-focused Handwriting Recognition and OCR (Optical Character Recognition) system built from scratch using **PyTorch** and **OpenCV**. 
+A production-quality, learning-focused Handwriting Recognition and OCR (Optical Character Recognition) system built from scratch using **PyTorch** and OpenCV. 
 
 This system does not rely on pre-trained engines (like Tesseract or PaddleOCR). Instead, it implements a custom Convolutional Neural Network (CNN) trained on the **EMNIST Balanced** dataset (47 classes representing digits and letters) and integrates a computer vision segmentation pipeline to parse complete pages of handwritten text.
 
