@@ -88,7 +88,6 @@ Handwritten-OCR/
     ```
 
 ---
-
 ## 💻 How to Run
 
 ### 1. Model Training
