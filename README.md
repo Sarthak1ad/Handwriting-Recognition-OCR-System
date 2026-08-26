@@ -36,7 +36,6 @@ flowchart TD
     J --> K[Reconstruct Words & Lines]
     K --> L[Recognized Output Text]
 ```
-
 ---
 
 ## 📂 Folder Structure
