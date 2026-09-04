@@ -5,7 +5,6 @@ A production-quality, learning-focused Handwriting Recognition and OCR (Optical 
 This system does not rely on pre-trained engines (like Tesseract or PaddleOCR). Instead, it implements a custom Convolutional Neural Network (CNN) trained on the **EMNIST Balanced** dataset (47 classes representing digits and letters) and integrates a computer vision segmentation pipeline to parse complete pages of handwritten text.
 
 ---
-
 ## 🚀 Key Features
 
 *   **Custom CNN Classifier**: Built from scratch using PyTorch with dynamic channel expansion, ReLU activations, Dropout regularization, and MaxPooling downsampling.
