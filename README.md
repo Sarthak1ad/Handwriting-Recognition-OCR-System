@@ -13,7 +13,7 @@ This system does not rely on pre-trained engines (like Tesseract or PaddleOCR). 
 *   **Normalization & Centering**: Pads segmented characters to a square canvas preserving aspect ratio before resizing to $28 \times 28$ to prevent shape distortion.
 *   **FastAPI REST Backend**: Production-ready API that loads and caches the CNN weights once during startup via lifespan contexts and handles image uploads.
 *   **Streamlit Web Interface**: Premium glassmorphic dashboard showcasing step-by-step pipeline visualizations (raw image, preprocessed mask, and bounding box overlays).
-*   **Robust Test Suite**: 100% test coverage for all modules using `pytest`.
+*   **Robust Test Suite**: 100% test coverage for modules using `pytest`.
 
 ---
 
