@@ -122,7 +122,7 @@ streamlit run web/streamlit_app.py
 
 To improve classification accuracy beyond EMNIST baseline thresholds (e.g. targeting 95%+):
 1.  **Model Enhancements**: Migrate to ResNet18/34 architectures or incorporate Batch Normalization after Conv2d layers.
-2.  **Data Augmentation**: Apply random affine transforms, elastic deformations, or shearing during training.
+2.  **Data Augmentation**: Apply random affine transforms, elastic deformations, or shearing  training.
 
 ---
 
