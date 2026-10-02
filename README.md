@@ -18,7 +18,7 @@ This system does not rely on pre-trained engines (like Tesseract or PaddleOCR). 
 
 ## 📐 System Architecture
 
-The workflow details the journey from a raw handwritten document to clean reconstructed text:
+ workflow details the journey from a raw handwritten document to clean reconstructed text:
 
 ```mermaid
 flowchart TD
